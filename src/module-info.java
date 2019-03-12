@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zishan
+ *
+ */
+module javaAlgorithmsAndDatastructures {
+}
