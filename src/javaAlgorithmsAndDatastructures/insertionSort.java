@@ -2,7 +2,7 @@ package javaAlgorithmsAndDatastructures;
 
 public class insertionSort {
 	
-	void sort(int array[]) {
+	public static void sort(int array[]) {
 		
 		int len = array.length;
 		for(int i=1; i<len; i++) {
